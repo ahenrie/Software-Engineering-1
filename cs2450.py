@@ -1,6 +1,5 @@
 import random
 
-# Quiz questions
 # Quiz questions with explanations
 quiz_questions = [
     {
